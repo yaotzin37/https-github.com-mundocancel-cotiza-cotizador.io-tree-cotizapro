@@ -1,0 +1,6 @@
+{
+  "name": "Mundo Cancel Pro",
+  "description": "Registro de proyectos de cancelería y cotizaciones profesionales con renderizador y presupuesto detallado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
